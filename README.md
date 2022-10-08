@@ -1,5 +1,5 @@
 # olumuyiwa
 
-# Editing the file
+# Sharing the file
 
 its a markdown file in this repository
